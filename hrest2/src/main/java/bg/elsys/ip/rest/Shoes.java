@@ -11,7 +11,6 @@ public class Shoes {
 	String materialMadeFrom = null;
 	int season = 0;
 
-	// Second hand car info
 	int number = 0;
 
 	int price = 0;
